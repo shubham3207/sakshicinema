@@ -1,0 +1,26 @@
+Inception,148,12A
+Shrek,90,U
+GoodFellas,146,18
+The Wolf of Wall Street,180,18
+Wreck-It Ralph,101,PG
+Scarface,170,18
+Terminator 2 Judgment Day,137,15
+Casino,178,18
+Pulp Fiction,154,18
+Indiana Jones and the Temple of Doom,118,12
+Source Code,93,12A
+The Raid 2,150,18
+For a Few Dollars More,132,15
+Gone Girl,149,18
+Cory in the House,22,U
+Back to the Future,116,PG
+Anchorman,94,15
+After Hours,97,15
+Wild Tales,122,15
+Django Unchained,165,18
+Bee Movie,91,U
+Baby Driver,112,15
+Fargo,98,15
+Kingpin,114,12
+Fight Club,139,18
+Thor Ragnarok,130,12A
